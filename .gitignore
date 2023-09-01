@@ -3,7 +3,3 @@
 .vscode/c_cpp_properties.json
 .vscode/launch.json
 .vscode/ipch
-/wemos async web server/.pio
-/wemos async web server/.vscode/.browse.c_cpp.db*
-/wemos async web server/.vscode/launch.json
-/wemos async web server/.vscode/ipch
